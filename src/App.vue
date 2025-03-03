@@ -1,11 +1,4 @@
-<script setup>
-import HelloWorld from './components/HelloWorld.vue'
-</script>
-
 <template>
-  <nav>
-    <router-link to="/voluntariado">Voluntariado</router-link>
-  </nav>
   <router-view></router-view>
 </template>
 
